@@ -14,7 +14,7 @@
 - 🏢 I'm a Computer Engineering and Software Systems Student
 - 👨‍💻 As an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, Java, and Python, or anything related to Backend development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- ⚡ Fun Fact: I love to cook. My signature dish is homemade spaghetti and meatballs.
 
 ### Connect with Me :
 
@@ -25,6 +25,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=007ACC)&nbsp;
+![java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=openjdk)&nbsp;
 
 
 
